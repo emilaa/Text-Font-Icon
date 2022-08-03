@@ -1,0 +1,80 @@
+body{
+    background-color: #F8F4F1;
+}
+
+@font-face {
+    font-family: font1;
+    src: url(../fonts/DancingScript-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: font2;
+    src: url(../fonts/Pacifico-Regular.ttf);
+}
+
+@font-face {
+    font-family: font3;
+    src: url(../fonts/AbrilFatface-Regular.ttf);
+}
+
+@font-face {
+    font-family: font4;
+    src: url(../fonts/JosefinSans-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: font5;
+    src: url(../fonts/MochiyPopOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: font6;
+    src: url(../fonts/RockSalt-Regular.ttf);
+}
+
+.fonts{
+    width: 500px;
+    height: 700px;
+    background-color: white;
+    margin-left: 521px;
+    box-shadow: 100px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 15px 15px 15px #888888;
+}
+
+.first{
+    text-align: center;
+    font-family: font1;
+    font-size: 30px;
+}
+
+.second{
+    text-align: center;
+    font-family: font2;
+    margin-top: 50px;
+}
+
+.third{
+    text-align: center;
+    font-family: font3;
+    margin-top: 50px;
+}
+
+.fourth{
+    text-align: center;
+    font-family: font4;
+    margin-top: 50px;
+}
+
+.fifth{
+    text-align: center;
+    font-family: font5;
+    margin-top: 50px ;
+}
+
+.sixth{
+    text-align: center;
+    font-family: font6;
+    margin-top: 50px;
+}

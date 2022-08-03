@@ -1,0 +1,54 @@
+body{
+    background-image: radial-gradient(circle, #3f87a6, #ebf8e1, #f69d3c);
+}
+
+a{
+    text-decoration: none;
+    color: green;
+    font-size: 20px;
+}
+
+.a{
+    text-align: center;
+    padding-top: 20px;
+    word-spacing: 17px;
+    font-weight: 550;
+}
+
+p{
+    font-size: 21px;
+}
+
+.p{
+    color: #924D13;
+}
+
+.intro h1{
+    text-align: center;
+    padding-top: 120px;
+    font-size: 50px;
+}
+
+.main{
+    width: 800px;
+    height: 600px;
+    margin-left: 340px;
+    margin-top: 50px;
+}
+
+.intro{
+    width: 850px;
+    height: 300px;
+    background-color: #AC4B10;
+}
+
+.content{
+    width: 850px;
+    height: 330px;
+    background-color: #D7AA4A;
+}
+
+.content h1{
+    font-size: 31px;
+    font-display: 50px;
+}
